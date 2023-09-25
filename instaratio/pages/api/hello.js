@@ -1,4 +1,4 @@
 import axios from "axios";
-const axios = axios.create({
+const axioss = axios.create({
 	baseURL: "",
 });
